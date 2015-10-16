@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:600italic);
+
+nav {
+	width: 10%;
+	padding: 0.25em;
+	background-color: black;
+	clear: both;
+	margin-left: 30px;
+font-family: 'Josefin Sans', sans-serif;
+	color: white;
+
+}
+
+body{
+	background-color: black;
+}
+
+nav ul {
+	list-style-type: none;
+	display: inline-flex;
+	position:	absolute;
+	background-color: black;
+font-family: 'Josefin Sans', sans-serif;
+	color: white;
+
+}
+
+nav li{
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	clear:both;
+	margin-bottom: 0px;
+font-family: 'Josefin Sans', sans-serif;
+	color:white;
+	background-color: black;
+
+
+}
+
+#content {
+font-family: 'Josefin Sans', sans-serif;
+color: white;
+font-size: 25px;
+background-color: black;
+
+}
+
+#content h1{
+	text-align: left;
+	margin-left: 0px;
+	background-color: black;
+}
+
+#truck{
+	float: left;
+	background-color: black;
+}
+
+#menu{
+font-family: 'Josefin Sans', sans-serif;
+color: white;
+	background-color: black;
+}
+
+#events{
+font-family: 'Josefin Sans', sans-serif;
+color: white;
+
+}
+
+
+#events h1{
+	margin-left: 0px;
+}
+
+#events img{
+	float:right;
+	clear:both;
+}
+
+#events nav{
+		margin-top: 277px;
+}
+
+h1 {
+margin-left: 600px
+}
+
+#story {
+font-family: 'Josefin Sans', sans-serif;
+color: white;
+
+}
+
+#story nav{
+	margin-top: 276px;
+}
