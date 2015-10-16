@@ -60,7 +60,8 @@ background-color: black;
 #menu{
 font-family: 'Josefin Sans', sans-serif;
 color: white;
-	background-color: black;
+background-color: black;
+text-align: center;
 }
 
 #events{
@@ -84,7 +85,8 @@ color: white;
 }
 
 h1 {
-margin-left: 600px
+margin-left: 175px
+font-size: 25px; 
 }
 
 #story {
